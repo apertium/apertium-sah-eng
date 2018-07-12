@@ -336,7 +336,7 @@
 <e>       <p><l>боросуонак<s n="n"/></l>               <r>shoat<s n="n"/></r></p><!--боросуонак n. shoat, piglet--></e>
 <e>       <p><l>боросуонак<s n="n"/></l>               <r>piglet<s n="n"/></r></p><!--боросуонак n. shoat, piglet--></e>
 <e>       <p><l>боротокуол<s n="n"/></l>               <r>protocol<s n="n"/></r></p><!--боротокуол n. protocol, first minutes of a meeting [<Russ.--></e>
-<e>       <p><l>боротокуол<s n="n"/></l>               <r>first<b/><g><b/>minutes<b/>of<b/>a<b/>meeting<b/>[<Russ.</g><s n="n"/></r></p><!--боротокуол n. protocol, first minutes of a meeting [<Russ.--></e>
+<e>       <p><l>боротокуол<s n="n"/></l>               <r>first<b/><g><b/>minutes<b/>of<b/>a<b/>meeting<b/></g><s n="n"/></r></p><!--<Russ.боротокуол n. protocol, first minutes of a meeting [<Russ.--></e>
 <e>       <p><l>бортунуой<s n="n"/></l>                <r>tailor<s n="n"/></r></p><!--бортунуой n. tailor--></e>
 <e>       <p><l>борубулуоха<s n="n"/></l>              <r>wire<s n="n"/></r></p><!--боробулуоха, борубулуоха n. wire--></e>
 <e>       <p><l>боруу<s n="n"/></l>                    <r>horsetail<s n="n"/></r></p><!--боруу n. horsetail--></e>
@@ -469,7 +469,7 @@
 <e>       <p><l>бэбиэскэ<s n="n"/></l>                 <r>notice<s n="n"/></r></p><!--бэбиэскэ n. message, notice, summons, agenda, business [<Russ.--></e>
 <e>       <p><l>бэбиэскэ<s n="n"/></l>                 <r>summons<s n="n"/></r></p><!--бэбиэскэ n. message, notice, summons, agenda, business [<Russ.--></e>
 <e>       <p><l>бэбиэскэ<s n="n"/></l>                 <r>agenda<s n="n"/></r></p><!--бэбиэскэ n. message, notice, summons, agenda, business [<Russ.--></e>
-<e>       <p><l>бэбиэскэ<s n="n"/></l>                 <r>business<b/><g><b/>[<Russ.</g><s n="n"/></r></p><!--бэбиэскэ n. message, notice, summons, agenda, business [<Russ.--></e>
+<e>       <p><l>бэбиэскэ<s n="n"/></l>                 <r>business<b/><g><b/></g><s n="n"/></r></p><!--[<Russ.бэбиэскэ n. message, notice, summons, agenda, business [<Russ.--></e>
 <e>       <p><l>бэдэр<s n="n"/></l>                    <r>lynx<s n="n"/></r></p><!--бэдэр n. lynx--></e>
 <e>       <p><l>бэйэ<s n="n"/></l>                     <r>body<s n="n"/></r></p><!--бэйэ n. body, nature, substance--></e>
 <e>       <p><l>бэйэ<s n="n"/></l>                     <r>nature<s n="n"/></r></p><!--бэйэ n. body, nature, substance--></e>
@@ -591,7 +591,7 @@
 <e>       <p><l>дурба<s n="n"/></l>                    <r>tube<s n="n"/></r></p><!--дурба cf турба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>дурба<s n="n"/></l>                    <r>horn<s n="n"/></r></p><!--дурба cf турба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>дурба<s n="n"/></l>                    <r>trumpet<s n="n"/></r></p><!--дурба cf турба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
-<e>       <p><l>дурба<s n="n"/></l>                    <r>chimney<b/><g><b/>[<Russ.</g><s n="n"/></r></p><!--дурба cf турба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
+<e>       <p><l>дурба<s n="n"/></l>                    <r>chimney<b/><g><b/></g><s n="n"/></r></p><!--[<Russ.дурба cf турба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>дуумай<s n="n"/></l>                   <r>consideration<s n="n"/></r></p><!--дуумай n. consideration ;--></e>
 <e>       <p><l>дьаакыр<s n="n"/></l>                  <r>anchor<s n="n"/></r></p><!--дьаакыр n. anchor--></e>
 <e>       <p><l>дьаам<s n="n"/></l>                    <r>power<s n="n"/></r></p><!--дьаам n. power, strength;  postal relay station--></e>
@@ -1302,7 +1302,7 @@
 <e>       <p><l>оскуола<s n="n"/></l>                  <r>school<s n="n"/></r></p><!--оскуола n. school--></e>
 <e>       <p><l>остолуобай<s n="n"/></l>               <r>dining<b/><g><b/>room</g><s n="n"/></r></p><!--остолуобай n. dining room, lunch room, cafeteria [<Russ.--></e>
 <e>       <p><l>остолуобай<s n="n"/></l>               <r>lunch<b/><g><b/>room</g><s n="n"/></r></p><!--остолуобай n. dining room, lunch room, cafeteria [<Russ.--></e>
-<e>       <p><l>остолуобай<s n="n"/></l>               <r>cafeteria<b/><g><b/>[<Russ.</g><s n="n"/></r></p><!--остолуобай n. dining room, lunch room, cafeteria [<Russ.--></e>
+<e>       <p><l>остолуобай<s n="n"/></l>               <r>cafeteria<b/><g><b/></g><s n="n"/></r></p><!--[<Russ.остолуобай n. dining room, lunch room, cafeteria [<Russ.--></e>
 <e>       <p><l>остуол<s n="n"/></l>                   <r>table<s n="n"/></r></p><!--остуол n. table--></e>
 <e>       <p><l>остуолба<s n="n"/></l>                 <r>post<s n="n"/></r></p><!--остуолба n. post, pole, column--></e>
 <e>       <p><l>остуолба<s n="n"/></l>                 <r>pole<s n="n"/></r></p><!--остуолба n. post, pole, column--></e>
@@ -1591,7 +1591,7 @@
 <e>       <p><l>турба<s n="n"/></l>                    <r>tube<s n="n"/></r></p><!--турба cf дурба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>турба<s n="n"/></l>                    <r>horn<s n="n"/></r></p><!--турба cf дурба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>турба<s n="n"/></l>                    <r>trumpet<s n="n"/></r></p><!--турба cf дурба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
-<e>       <p><l>турба<s n="n"/></l>                    <r>chimney<b/><g><b/>[<Russ.</g><s n="n"/></r></p><!--турба cf дурба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
+<e>       <p><l>турба<s n="n"/></l>                    <r>chimney<b/><g><b/></g><s n="n"/></r></p><!--[<Russ.турба cf дурба n. pipe, tube, horn, trumpet, chimney [<Russ.--></e>
 <e>       <p><l>туртас<s n="n"/></l>                   <r>roe<b/><g><b/>deer</g><s n="n"/></r></p><!--туртас n. roe deer--></e>
 <e>       <p><l>туруйа<s n="n"/></l>                   <r>crane<s n="n"/></r></p><!--туруйа n. crane--></e>
 <e>       <p><l>турук<s n="n"/></l>                    <r>status<s n="n"/></r></p><!--турук n. status, state, condition--></e>
